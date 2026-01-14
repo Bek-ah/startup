@@ -1,6 +1,6 @@
 # CS 260 Notes
 
-[My startup - Simon](https://simon.cs260.click)
+A to G (https://simon.cs260.click)
 
 ## Helpful links
 
