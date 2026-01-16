@@ -1,8 +1,8 @@
 # Your startup name here
 
-[My Notes](notes.md)
+A to G (notes.md)
 
-A brief description of the application here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+An application that helps beginner music students learn to read music notes.
 
 > [!NOTE]
 > This is a template for your startup application. You must modify this `README.md` file for each phase of your development. You only need to fill in the section for each deliverable when that deliverable is submitted in Canvas. Without completing the section for a deliverable, the TA will not know what to look for when grading your submission. Feel free to add additional information to each deliverable description, but make sure you at least have the list of rubric items and a description of what you did for each item.
@@ -25,11 +25,11 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Have you every known an overworked music teacher? Have they had to miss out on spending time with their friends or family trying desperately to research ways to help students new to music catch up to students who have studied for years? The A to G application is designed to help students learn to quickly read notes in a way they can practice in places or times where they cannot bring their instrument and practice.     `As each student improves their musical literacy, students will gain confidence in themselves.
 
 ### Design
 
-![Design image](placeholder.png)
+![Design image](Example_screens.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -50,12 +50,12 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - html for the settings options.
+- **CSS** - css to make the app look pretty for different phone sizes, one version for light mode one for dark mode.
+- **React** - react login in home screen, the buttons to change difficulty/settings, letters a-g for the user to click when the note comes up.
+- **Service** - service sends high scores to the database, sends login information to database.
+- **DB/Login** - DB stores high scores, login information, and which teacher they are under.
+- **WebSocket** - WebSocket scores are sent to a teacher to grade.
 
 ## 🚀 AWS deliverable
 
