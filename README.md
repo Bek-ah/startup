@@ -69,7 +69,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [x] **HTML pages** - I did a home (index.html), play, score, teacher view (teacher.html), and about page.
-- [x] **Proper HTML element usage** - I used <p> for text, <h1> for headers, and more. There is a head and body with a header and footer for each page. It all works.
+- [x] **Proper HTML element usage** - I used p for text, h1 for headers, and more. There is a head and body with a header and footer for each page. It all works.
 - [x] **Links** - I successfully linked the pages so they flowed in the way I wanted. I also have my Github link at the bottom of each page.
 - [x] **Text** - I have a brief paragraph in about.html describing how to play.
 - [x] **3rd party API placeholder** - I put in a congratulatory message that will be provided by a 3rd party API in the future in scores.html.
