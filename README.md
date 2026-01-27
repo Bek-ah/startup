@@ -25,7 +25,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Have you every known an overworked music teacher? Have they had to miss out on spending time with their friends or family trying desperately to research ways to help students new to music catch up to students who have studied for years? The A to G application is designed to help students learn to quickly read notes in a way they can practice in places or times where they cannot bring their instrument and practice.     `As each student improves their musical literacy, students will gain confidence in themselves.
+Have you ever known an overworked music teacher? Have they had to miss out on spending time with their friends or family trying desperately to research ways to help students new to music catch up to students who have studied for years? The A to G application is designed to help students learn to quickly read notes in a way they can practice in places or times where they cannot bring their instrument and practice.     `As each student improves their musical literacy, students will gain confidence in themselves.
 
 ### Design
 
@@ -68,15 +68,15 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - I did a home (index.html), play, score, teacher view (teacher.html), and about page.
+- [x] **Proper HTML element usage** - I used <p> for text, <h1> for headers, and more. There is a head and body with a header and footer for each page. It all works.
+- [x] **Links** - I successfully linked the pages so they flowed in the way I wanted. I also have my Github link at the bottom of each page.
+- [x] **Text** - I have a brief paragraph in about.html describing how to play.
+- [x] **3rd party API placeholder** - I put in a congratulatory message that will be provided by a 3rd party API in the future in scores.html.
+- [x] **Images** - I put in the image of a treble clef in play.html.
+- [x] **Login placeholder** - I put a place for a student login and a teacher login in index.html. They may be combined in the future, but for now are separate to show how the student scores can only be seen by the teacher.
+- [x] **DB data placeholder** - I put in a table of student scores that will be from a database in teacher.html.
+- [x] **WebSocket placeholder** - In teacher.html the teacher will receive notifications when student's submit a new score.
 
 ## 🚀 CSS deliverable
 

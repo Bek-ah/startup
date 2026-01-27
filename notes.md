@@ -19,8 +19,9 @@ No problems worked just like it said in the [instruction](https://github.com/web
 
 ## HTML
 
-I made the pages for the application, getting them to link to each other. Looking at 3rd party APIs, maybe a congratulations?
-The rest is fairly similar to Simon, the play.html page especially will look better when it isn't just html.
+I made the pages for the application, and got them to link to each other. For my 3rd party API I'm going to do an automated congratulations that changes for each new score.
+
+The play.html page especially will look better when it isn't just html.
 
 ## CSS
 
