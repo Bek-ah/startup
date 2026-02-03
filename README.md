@@ -82,12 +82,12 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Visually appealing colors and layout. No overflowing elements.** - I did not complete this part of the deliverable.
-- [ ] **Use of a CSS framework** - I did not complete this part of the deliverable.
-- [ ] **All visual elements styled using CSS** - I did not complete this part of the deliverable.
-- [ ] **Responsive to window resizing using flexbox and/or grid display** - I did not complete this part of the deliverable.
-- [ ] **Use of a imported font** - I did not complete this part of the deliverable.
-- [ ] **Use of different types of selectors including element, class, ID, and pseudo selectors** - I did not complete this part of the deliverable.
+- [x] **Visually appealing colors and layout. No overflowing elements.** - I used a very light blue for the background, and darker colors (mostly blue or black) for the forground to give the app an open feel. When the screen dimension changes, the elements recenter.
+- [x] **Use of a CSS framework** - I used a file called styles.css to contain all the css.
+- [x] **All visual elements styled using CSS** - I specified the alignment of everything with CSS, changed the font of all the text, and made everything work with different size screens.
+- [x] **Responsive to window resizing using flexbox and/or grid display** - I used display flex for the buttons a-g, text-align for the text, and for the image I tried setting the margin-left and margin-right to auto.
+- [x] **Use of a imported font** - I imported and used multiple fonts, one of them being the header title font (the AtoG at the top of each page).
+- [x] **Use of different types of selectors including element, class, ID, and pseudo selectors** - I used element selectores such as p and h1, class selectors (letters and the letterlist container for letters), an ID for the encouragement API (scores.html or the css is in the section beneath class selectors) and a pseudo selector at the very bottom of my CSS file so the link to GitHub changes to a color in theme with the rest of the app (blue) not orange.
 
 ## 🚀 React part 1: Routing deliverable
 
