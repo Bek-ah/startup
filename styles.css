@@ -5,13 +5,13 @@ header h1 {
     color: rgb(0,0,150);
     text-align: left;
     font-family: "Italianno", cursive;
+    flex: 0 80px;
 }
 
 h1 {
     color: rgb(0,0,150);
     text-align: center;
     padding: .1%;
-    font-family: "Playwrite NZ Basic", cursive;
 }
 
 h2 { //import a cool font
@@ -26,6 +26,10 @@ h3 {
 
 body {
     background: #DEEBF7;
+    font-family: "Playwrite NZ Basic", cursive;
+    display: flex;
+    flex-direction: column;
+    min-width: 375px;
 }
 
 p {
@@ -38,20 +42,16 @@ form {
 }
 
 footer {
+    flex: 0 30px;
     text-align: center;
     vertical-align: bottom;
     padding: 20px;
     color: green;
 }
 
-footer a {
-    text-align: center;
-    vertical-align: bottom;
-}
-
 div {
     text-align: center;
-    padding: 50px;
+    padding: 1px;
 }
 
 img {
@@ -60,8 +60,22 @@ img {
     margin-right: auto;
 }
 /*class selectors*/
-.letters {
+.letterlist{
     display: flex;
-    justify-content: center;
-    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 5px;
+}
+.letters {
+    width: max-content;
+    border: 1px solid #DEEBF7;
+    padding: 10px;
+}
+/*ID selectors*/
+#encouragement-api{
+    color: rgb(0,0,150);
+}
+/*Pseudo selectors*/
+a:hover {
+    color: green;
 }
