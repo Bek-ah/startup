@@ -1,3 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italianno&family=Playwrite+NZ+Basic:wght@100..400&display=swap');
+
+header h1 {
+    color: rgb(0,0,150);
+    text-align: left;
+    font-family: "Italianno", cursive;
+}
+
 h1 {
-    color: blue;
+    color: rgb(0,0,150);
+    text-align: center;
+    padding: .1%;
+    font-family: "Playwrite NZ Basic", cursive;
+}
+
+h2 { //import a cool font
+    color: rgb(0,0,150);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(0,0,150);
+    text-align: center;
+}
+
+body {
+    background: #DEEBF7;
+}
+
+p {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    padding: 1%;
+}
+
+footer {
+    text-align: center;
+    vertical-align: bottom;
+    padding: 20px;
+    color: green;
+}
+
+footer a {
+    text-align: center;
+    vertical-align: bottom;
+}
+
+div {
+    text-align: center;
+    padding: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*class selectors*/
+.letters {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
