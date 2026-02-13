@@ -24,7 +24,7 @@ h3 {
     text-align: center;
 }
 
-body {
+.body {
     background: #DEEBF7;
     font-family: "Playwrite NZ Basic", cursive;
     display: flex;
