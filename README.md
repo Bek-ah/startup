@@ -29,7 +29,7 @@ Have you ever known an overworked music teacher? Have they had to miss out on sp
 
 ### Design
 
-![Design image](Example_screens.png)
+![Design image](public/Example_screens.png)
 
 Here is a basic design of the screens the user will see while interacting with the app.
 

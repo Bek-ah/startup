@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italianno&family=Playwrite+NZ+Basic:wght@100..400&display=swap');
+
+header h1 {
+    color: rgb(0,0,150);
+    text-align: left;
+    font-family: "Italzianno", cursive;
+    flex: 0 80px;
+}
+
+h1 {
+    color: rgb(0,0,150);
+    text-align: center;
+    padding: .1%;
+}
+
+h2 { //import a cool font
+    color: rgb(0,0,150);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(0,0,150);
+    text-align: center;
+}
+
+body {
+    background: #DEEBF7;
+    font-family: "Playwrite NZ Basic", cursive;
+    display: flex;
+    flex-direction: column;
+    min-width: 375px;
+}
+
+p {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    padding: 1%;
+}
+
+footer {
+    flex: 0 30px;
+    text-align: center;
+    vertical-align: bottom;
+    padding: 20px;
+    color: green;
+}
+
+div {
+    text-align: center;
+    padding: 1px;
+}
+
+input {
+    font-family: "Playwrite NZ Basic", cursive;
+    background-color: rgb(255,255,230);
+    border-radius: 10px;
+}
+/*class selectors*/
+.letterlist{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 5px;
+}
+.letters {
+    width: max-content;
+    border: 1px solid #DEEBF7;
+    padding: 10px;
+}
+.login-buttons {
+    background-color: #EBF6F9;
+    border-radius: 10px;
+}
+/*Pseudo selectors*/
+a:hover {
+    color: green;
+}
