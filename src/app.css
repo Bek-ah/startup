@@ -74,6 +74,11 @@ input {
 .login-buttons {
     background-color: #EBF6F9;
     border-radius: 10px;
+    border-color: #000000;
+}
+.links {
+    color: #000000;
+    text-decoration: none;
 }
 /*Pseudo selectors*/
 a:hover {
